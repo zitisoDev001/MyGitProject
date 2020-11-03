@@ -1,1 +1,3 @@
 Add amazing code
+//editing to finish merge
+Some code for the file
